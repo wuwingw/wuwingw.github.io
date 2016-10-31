@@ -1,4 +1,4 @@
 *.DS_Store
-./css/bootstrap*
-./fonts
-./js
+css/bootstrap*
+fonts
+js
